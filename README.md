@@ -45,14 +45,14 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/fahimrashid3" target="_blank](https://www.linkedin.com/in/fahim-rashid-29a211282/)">
+  <a href="https://www.linkedin.com/in/fahim-rashid-29a211282/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.facebook.com/fahimrashid.fb" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:fahimrashid350@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/fahimrashid3">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
@@ -68,7 +68,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/fahimrashid3/fahimrashid3/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
----
-
-<!-- Optional: Contribution Snake GitHub Action must be enabled to show last animation -->
