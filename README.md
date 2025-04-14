@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahim Rashid</h1>
-<h3 align="center">From dream to reality — it's coded 💻</h3>
+<h3 align="center">Powered by code. Driven by dreams.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%7C+Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB+Lover;I+build+solutions+with+code+and+passion!" alt="Typing SVG" />
