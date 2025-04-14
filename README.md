@@ -11,10 +11,8 @@
 - 💼 CSE student at **BUBT**, passionate about tech and problem-solving.
 - 🚀 Currently building **service platforms** that simplify real-life needs.
 - 🛠️ Working with **React.js**, **Node.js**, **Express**, **MongoDB**, and **Firebase**.
-- 🧠 Exploring more into **backend architecture**, **security**, and **real-time apps**.
 - 💬 Ask me about **Web Development**, **Problem Solving**, or anything tech-related.
 - 🎯 Goal: Become a product-focused full-stack engineer that makes impact.
-- 🌐 Portfolio coming soon...
 
 ---
 
@@ -38,7 +36,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimrashid3&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrashid3&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimrashid3&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -48,10 +45,10 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahimrashid3" target="_blank">
+  <a href="[https://www.linkedin.com/in/fahimrashid3" target="_blank](https://www.linkedin.com/in/fahim-rashid-29a211282/)">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:fahimrashid3@gmail.com">
+  <a href="mailto:fahimrashid350@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/fahimrashid3">
