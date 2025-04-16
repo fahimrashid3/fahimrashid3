@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 💼 CSE student at **BUBT**, passionate about tech and problem-solving.
+- 💼 CSE student at **BUBT**, passionate about tech and Development.
 - 🚀 Currently building **service platforms** that simplify real-life needs.
 - 🛠️ Working with **React.js**, **Node.js**, **Express**, **MongoDB**, and **Firebase**.
 - 💬 Ask me about **Web Development**, **Problem Solving**, or anything tech-related.
