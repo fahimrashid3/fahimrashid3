@@ -1,14 +1,22 @@
-## 🧠 About Me
-
-- 💼 CSE student at **BUBT**, passionate about tech and development.
-- 🚀 Currently building **service platforms** that simplify real-life needs.
-- 🛠 Working with **React.js**, **Node.js**, **Express**, **MongoDB**, and **Firebase**.
-- 💬 Ask me about **Web Development**, **Problem Solving**, or anything tech-related.
-- 🎯 **Goal**: Become a product-focused full-stack engineer that makes impact.
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Fahim Rashid</h1>
+<h3 align="center">CSE Student | Full-Stack Developer | Tech Enthusiast</h3>
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 About Me
+
+- 🎓 CSE student at **BUBT**, passionate about tech and software development.
+- 🛠 Building **service platforms** to simplify real-life problems.
+- 🚀 Skilled in **React.js**, **Node.js**, **Express**, **MongoDB**, **Firebase**.
+- 💬 Ask me about **Web Development**, **Problem Solving**, or **Project Building**.
+- 🎯 **Goal**: Become a product-focused full-stack developer that creates impact.
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -21,20 +29,34 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimrashid3&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimrashid3&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahimrashid3&theme=radical)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahimrashid3&show_icons=true&theme=tokyonight" alt="Fahim's GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrashid3&theme=tokyonight" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimrashid3&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fahimrashid3)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/fahimrashid.fb)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahimrashid3">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.facebook.com/fahimrashid.fb">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -45,6 +67,8 @@
 > **"Every keystroke counts. Make it powerful."**
 
 ---
+
+- 💼 CSE student at **BUBT**, passionate about tech 
 
 one
 > **"Code your career. Build your legacy."**  
