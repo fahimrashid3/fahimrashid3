@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahim Rashid</h1>
+<h1 align="center">Hi 👋, I'm Fahim Rashid;</h1>
  <h3 align="center">Powered by code. Driven by dreams.</h3>
  
  <p align="center">
