@@ -6,6 +6,10 @@
  </p>
  
  ---
+
+ ![](https://github-profile-trophy.vercel.app/?username=fahimrashid3&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+ ---
  
  ### 🧠 About Me
  - 💼 CSE student at **BUBT**, passionate about tech and Development.
